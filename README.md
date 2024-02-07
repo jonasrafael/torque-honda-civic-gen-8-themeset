@@ -21,6 +21,20 @@ For example, to install the blue theme using `adb`:
 3. Restart Torque
 
 
+Another Way (latest version)
+------------
+
+1. Download this repository;
+2. Extract
+3. Going to Torque APP
+4. Find Settings Options
+5. Themes
+6. Select a Theme
+7. Import from legacy(old) .torque folder...
+8. Select Folder
+9. Done.
+
+
 Acknowledgements
 ----------------
 This theme uses the [Digital 7][] font published by [styleseven.com][s7], which
